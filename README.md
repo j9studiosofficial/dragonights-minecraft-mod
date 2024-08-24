@@ -7,10 +7,6 @@ This is the official Minecraft mod for this series and is maintained by J9 Studi
 The modification is a long-term marketing project to help promote Dragonights via popular outlets such as video gaming and other fan-created media using our modification. There is a lot planned including dozens of crystals (with each their unique mechanics), dimensions, entities, and an extensive list of supernatural abilities all within the Minecraft ecosystem while trying to keep the overall feel of the mod the most vanilla-ish possible. Currently, the mod is only available for Minecraft 1.20.6 NeoForge. In the future, we plan on making this modification compatible with other notable mods to provide a seamless experience for mod-pack players.
 
 
-**External Supported Modifications**
-- [Vampirism](https://modrinth.com/mod/vampirism) (generates blunaro meteors in the vampire forest)
-
-
 **DISCLAIMER: This is currently a public beta and may damage existing worlds. Backup your Minecraft world or create a new one when using the modification.**
 
 © J9 Studios - An official J9 Studios product. This modification is not an official Minecraft product nor is it approved by or associated with Mojang.
