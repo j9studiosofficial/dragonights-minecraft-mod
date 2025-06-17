@@ -1,6 +1,6 @@
 ![dragonights_banner](https://us-east-1.tixte.net/uploads/cdn.dragonights.com/dragonights_minecraft_mod_banner.png)
 
-[Dragonights](https://www.dragonights.com/) is an upcoming, live-action sci-fi, TV series expected to pass over 50 hours in watch time. Outside of the main story, there are many other side stories, prequels, sequels, and spin-offs bringing in another 200+ viewing hours. A vast universe with endless possibilities for the future and beyond, and a universe very well suitable for fan-fic authors and role-players to create their own content.
+[Dragonights](https://www.dragonights.com/) is an upcoming action sci-fi, live action TV series set place in the J9 Universe. Rated 14+ for fantasy violence.
 
 This is the official Minecraft mod for this series and is maintained by J9 Studios and official representatives from the Dragonights franchise.
 
